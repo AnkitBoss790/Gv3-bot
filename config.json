@@ -1,0 +1,10 @@
+{
+  "token": "",
+  "admin_ids": [],
+  "vm_base_path": "/var/lib/libvirt/images",
+  "default_image": "/var/lib/libvirt/images/ubuntu-22.04.qcow2",
+  "network_bridge": "virbr0",
+  "tmate_api": "https://tmate.io/api/tunnels",
+  "ssh_port_start": 22000,
+  "ssh_port_end": 22999
+}
